@@ -1,2 +1,2 @@
 # Tensorflow
-Convolutional Neural Network
+Neural Network
